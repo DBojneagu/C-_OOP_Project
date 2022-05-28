@@ -423,7 +423,7 @@ void afisare_masini(vector < Masini* > v, expozitie < Masini_Hatch > hatch, expo
 }
 
 /// <summary>
-/// Am implementat design Pattern-ul singleton , prin Clasa meniu. Avem aici un constructor privat si unic, deoarece nu am avea vreodata nevoie de mai mult de 1 meniu. 
+/// Am implementat design Pattern-ul singleton , prin Clasa menu. Avem aici un constructor privat si unic, deoarece nu am avea vreodata nevoie de mai mult de 1 meniu. 
 /// </summary>
 
 class Menu {
